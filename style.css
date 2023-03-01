@@ -1,0 +1,48 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #9381ff;
+  }
+ nav li {
+    float: left;
+  }
+ nav li a {
+    display: block;
+    color: #ffeedd;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  body{
+    background-color: #f8f7ff;
+  }
+  nav li:hover {
+    background-color: #b8b8ff;
+  }
+  nav li a:hover {
+    color: #ffd8be;
+  }
+  h1{
+    color: #231942;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+  }
+  p{
+    background-color: #9f86c0;
+    padding: 10px;
+  }
+  video{
+    display: block;
+    margin: 0 auto;
+  }
+  img{
+    display: block;
+    margin: 0 auto;
+  }
+  #dogs{
+    color: #9381ff;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
