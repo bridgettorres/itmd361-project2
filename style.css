@@ -3,20 +3,22 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #9381ff;
+    background-color: #22065e;
+    opacity: 80%;
+    border : 2px solid #b96eee;
   }
  nav li {
     float: left;
   }
  nav li a {
     display: block;
-    color: #ffeedd;
+    color: #b96eee;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
   body{
-    background-color: #f8f7ff;
+    background-image: linear-gradient( black, purple, magenta); 
   }
   nav li:hover {
     background-color: #b8b8ff;
@@ -25,13 +27,15 @@ nav ul {
     color: #ffd8be;
   }
   h1{
-    color: #231942;
+    color: magenta;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 50px;
   }
-  p{
-    background-color: #9f86c0;
+  #aboutme{
+    background-color: #13484b;
     padding: 10px;
+    border : 2px solid #299ba1;
+    color: white;
   }
   video{
     display: block;
@@ -45,4 +49,14 @@ nav ul {
     color: #9381ff;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  #obs{
+    background-color: #250528;
+    color: #ffffff;
+    border : 2px solid #a31eac; 
+    
+  }
+
+  ul {
   }
