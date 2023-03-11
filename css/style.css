@@ -160,3 +160,9 @@ h3{
   border-radius: 350px;
   box-shadow: 0 0 20px #fdf3c7;
 }
+#contact a{
+  border-bottom: 2px dotted magenta;
+  text-decoration: none;
+  color: #ff69b4;
+  font-weight: bold;
+}
