@@ -132,12 +132,16 @@ video:hover{
 #date{
   color: white;
   text-align: right;
+  display: inline-block;
+  float: right;
 }
 h2{
   color: #9F2B68;
 }
 h3{
   color: #D8BFD8;
+  text-align: left;
+  display: inline-block;
 }
 #contact{
   background-color: #d7bd7b;
