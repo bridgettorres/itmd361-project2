@@ -61,6 +61,11 @@ h1{
   margin-left: 5%;
   margin-bottom: 5%;
 }
+#aboutme h2{
+  margin-bottom: 0.3em;
+  margin-top: 0.3em;
+  color: white;
+}
 video{
   display: block;
   margin: 0 auto;
@@ -132,7 +137,7 @@ video:hover{
 #resume p{
   color: #AA98A9;
 }
-#date{
+.date{
   color: white;
   text-align: right;
   display: inline-block;
