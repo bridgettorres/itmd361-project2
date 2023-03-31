@@ -52,12 +52,12 @@ h1{
 }
 #aboutme{
   background-color: #13484b;
-  padding: 10px;
+  padding: 20px;
   border : 2px solid #299ba1;
   color: white;
   float: left;
   width: 40%;
-  height: 100px;
+  height: 150px;
   margin-left: 5%;
   margin-bottom: 5%;
 }
@@ -80,7 +80,7 @@ img{
   border : 2px solid #8b00ff;
   float: right;
   width: 40%;
-  height: 120px;
+  height: 190px;
   margin-right: 5%;
   margin-bottom: 5%;
   padding-left: 20px;
@@ -132,13 +132,16 @@ video:hover{
   width: 1000px;
   margin: 0 auto;
   background-color: #FFF5EE;
+  padding: 20px;
   font-family: 'Courier New', Courier, monospace;;
 }
 #resume p{
-  color: #AA98A9;
+  color: #a56699;
+  font-weight: bold;
+  font-style: italic;
 }
 .date{
-  color: white;
+  color: rgb(95, 68, 68);
   text-align: right;
   display: inline-block;
   float: right;
@@ -147,13 +150,13 @@ h2{
   color: #9F2B68;
 }
 h3{
-  color: #D8BFD8;
+  color: #5f3d5f;
   text-align: left;
   display: inline-block;
 }
 #contact{
   background-color: #d7bd7b;
-  width: 600px;
+  width: 650px;
   padding: 25px;
   text-align: center;
   margin: auto;
@@ -163,7 +166,7 @@ h3{
   color: #fdf3c7;
 }
 #contact img{
-  border-radius: 350px;
+  border-radius: 400px;
   box-shadow: 0 0 20px #fdf3c7;
 }
 #contact a{
@@ -171,4 +174,8 @@ h3{
   text-decoration: none;
   color: #ff69b4;
   font-weight: bold;
+}
+.icons {
+  width: 60px;
+  height: 60px;
 }
