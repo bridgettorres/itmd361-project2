@@ -93,6 +93,9 @@ img{
   background-color: #4c003f;
   border: 2px solid #a31eac;
 }
+#dogs h4{
+  color: white;
+}
 .dogs-text {
   display: flex;
   justify-content: center;
@@ -133,7 +136,10 @@ video:hover{
   margin: 0 auto;
   background-color: #FFF5EE;
   padding: 20px;
-  font-family: 'Courier New', Courier, monospace;;
+  font-family: 'Courier New', Courier, monospace;
+}
+#resume section{
+  border-bottom: 1px solid #456064;
 }
 #resume p{
   color: #a56699;
